@@ -1,0 +1,26 @@
+{
+    "name": "atom0s/Cloudflare",
+    "type": "phpbb-extension",
+    "description": "Enables Cloudflare support for phpBB 3.2.x forums.",
+    "homepage": "http://atom0s.com/",
+    "version": "1.0.0",
+    "time": "2017-01-15",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "atom0s",
+            "email": "atom0s@live.com",
+            "homepage": "http://atom0s.com/",
+            "role": "Lead Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "extra": {
+        "display-name": "Cloudflare IP Support",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.10,<3.2.0@dev"
+        }
+    }
+}

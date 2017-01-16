@@ -1,0 +1,5 @@
+services:
+    atom0s.Cloudflare.listener:
+        class: atom0s\Cloudflare\event\main_listener
+        tags:
+            - { name: event.listener }
