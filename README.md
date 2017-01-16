@@ -33,4 +33,4 @@ Next follow the directions below to enable the extension:
 
 Feel free to donate via Paypal here:
 
-    https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7U7Q2GRT6KUJN
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7U7Q2GRT6KUJN
